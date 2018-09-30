@@ -288,7 +288,7 @@ lxappearance
 #lxappearance-gtk3
 #lxappearance-obconf
 #lxappearance-obconf-gtk3
-lxrandr
+#lxrandr
 
 #openbox
 #gtk2-perl
