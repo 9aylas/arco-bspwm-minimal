@@ -1,4 +1,4 @@
-# ArcoLinux BYOI Bspwm desktop
+# ArcoLinux BYOI Bspwm Minimal desktop
 
 # Get your code to build your own iso
 
