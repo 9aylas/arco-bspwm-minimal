@@ -357,7 +357,7 @@ qt5-webkit
 reflector
 #redshift
 rofi
-#rxvt-unicode
+rxvt-unicode
 #simple-scan
 #shotwell
 #speedtest-cli
@@ -456,8 +456,8 @@ sublime-text-dev
 #temps
 #tmux
 trizen
-#urxvt-perls
-#urxvt-resize-font-git
+urxvt-perls
+urxvt-resize-font-git
 #wttr
 yad
 yay-bin
