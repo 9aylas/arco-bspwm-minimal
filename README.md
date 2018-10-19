@@ -2,7 +2,7 @@
 
 # Get your code to build your own iso
 
-	git clone https://github.com/arcolinuxb/arco-bspwm
+	git clone https://github.com/arcolinuxb/arco-bspwm-minimal
 
 # Follow installation tutorials on
 
