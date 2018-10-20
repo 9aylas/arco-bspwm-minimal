@@ -297,7 +297,7 @@ lxappearance
 #gtk-engine-murrine
 
 #themes
-adapta-gtk-theme
+#adapta-gtk-theme
 arc-gtk-theme
 
 #utilities
@@ -419,7 +419,7 @@ sardi-icons
 #surfn-icons-git
 
 #network
-b43-firmware
+#b43-firmware
 
 #openbox
 #obkey
